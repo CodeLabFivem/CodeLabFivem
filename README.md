@@ -12,7 +12,7 @@ CodeLab FiveM is dedicated to providing high-quality scripts and resources for t
 
 ---
 
-### 🔧 Featured Scripts(Upcoming Scrippts):
+### 🔧 Featured Scripts(Upcoming Scripts):
 - 🚓 **Police Roleplay Systems:** Advanced arrest, chase, and criminal interaction systems for more immersive gameplay.
 - 🚑 **EMS & Hospital System:** A complete emergency services system with realistic injury mechanics and hospital treatments.
 - 💼 **Job & Economy Systems:** Comprehensive job systems that include mining, farming, and legal/illegal business opportunities.
