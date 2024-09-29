@@ -1,4 +1,3 @@
-![logo](https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg)
 <h1 align="center">Hi 👋, Welcome to CodeLab FiveM</h1>
 <h3 align="center">Your Go-To Hub for FiveM Scripts and Resources</h3>
 
@@ -8,9 +7,9 @@
 
 - 🌱 **Explore the latest FiveM scripts** at CodeLab FiveM.
 
-- 👨‍💻 **All of our projects are available at** [https://github.com/itxtushaar](https://github.com/itxtushaar)
+- 👨‍💻 **All of our projects are available at** [https://github.com/CodeLabFivem](https://github.com/CodeLabFivem)
 
-- 📫 **For any queries, reach out at** **tiwaritushar67@gmail.com**
+- 📫 **For any queries, reach out at** **tiwaritushar67@gmail.com** **150pingofficial@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
